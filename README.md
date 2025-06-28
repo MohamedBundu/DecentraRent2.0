@@ -6,8 +6,7 @@ DecentraRent is a decentralized rental platform (DApp) that allows landlords and
 
 🌐 Live Project
 
-GitHub Repo: https://github.com/SammyK4488/DecentraRent
-
+GitHub Repo:https://github.com/MohamedBundu/DecentraRent2.0
 ✅ Features Completed
 
 🎨 Frontend (React + Vite)
