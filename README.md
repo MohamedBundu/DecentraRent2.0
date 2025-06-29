@@ -29,10 +29,6 @@ DecentraRent is a decentralized rental platform (DApp) that allows landlords and
 - [x] Merge conflicts resolved
 - [x] GitHub synced with local development
 
----
-
-## 🔨 To-Do / In Progress
-
 ### 👥 Role-aware UI
 - [ ] Tenant and Landlord role detection
 - [ ] Dynamic page content based on role
@@ -44,6 +40,10 @@ DecentraRent is a decentralized rental platform (DApp) that allows landlords and
 ### 🧪 Backend (Optional)
 - [ ] Add data persistence layer with **Firebase** or **Supabase**
 - [ ] Store listing metadata off-chain (e.g., images, pricing)
+
+---
+
+## 🔨 To-Do / In Progress
 
 ### 📱 Mobile Readiness
 - [ ] Convert frontend into a **React Native** or **Expo** mobile app
