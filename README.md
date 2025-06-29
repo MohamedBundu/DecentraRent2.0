@@ -4,7 +4,7 @@
 DecentraRent is a decentralized rental platform (DApp) that allows landlords and tenants to interact transparently via blockchain smart contracts. Built with a modern frontend and a Solidity-based smart contract backend, the project aims to disrupt the traditional rental system with secure, trustless agreements.
 
 ## 🌐 Live Project
-**GitHub Repo:** [https://github.com/SammyK4488/DecentraRent](https://github.com/SammyK4488/DecentraRent)
+**GitHub Repo:** https://github.com/MohamedBundu/DecentraRent2.0
 
 ---
 
